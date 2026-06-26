@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658068574958",
+    "project_id": "shoppe-app-76689",
+    "storage_bucket": "shoppe-app-76689.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658068574958:android:1998ea6877393488ff19ff",
+        "android_client_info": {
+          "package_name": "com.example.shoppe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRm741pA2v64pgVlrxq5615bEOfTc-E9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
