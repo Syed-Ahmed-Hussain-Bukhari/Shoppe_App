@@ -20,7 +20,6 @@ A clean eCommerce app built with Flutter & GetX.
   </tr>
 </table>
 
-## Stack
 Flutter · GetX · SQLite · Firebase FCM · Dio
 
 ## Features
