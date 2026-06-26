@@ -27,7 +27,8 @@ Flutter · GetX · SQLite · Firebase FCM · Dio
 - Login with session persistence
 - Product listing with category filter
 - Cart & Favourites saved locally (SQLite)
-- Push notifications with deep linking
+- Push notifications
+- Profile Screen
 - Logout clears all data & notifications
 
 ## Run
@@ -38,4 +39,4 @@ flutter pub get
 flutter run
 ```
 
-**Demo:** `ah
+**Demo:** `ahmed24@gmail.com` / `pass123`
